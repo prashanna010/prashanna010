@@ -34,11 +34,22 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
+<!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashannaLohani&show_icons=true&locale=en&layout=compact&theme=dark" alt="PrashannaLohani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrashannaLohani&show_icons=true&locale=en&theme=dark" alt="PrashannaLohani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrashannaLohani&theme=dark" alt="PrashannaLohani" /></p>
+
+<!-- Code Frequency and Contribution Stats -->
+<h3 align="left">Code Frequency and Contributions:</h3>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashannaLohani&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrashannaLohani&theme=github_dark" alt="GitHub Profile Summary Cards" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

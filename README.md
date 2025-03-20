@@ -41,6 +41,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrashannaLohani&theme=dark" alt="PrashannaLohani" /></p>
 
+<!-- Lines of Code -->
+<h3 align="left">Lines of Code Written:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Total%20Lines%20of%20Code-12039%20lines-brightgreen" alt="Total Lines of Code" />
+</p>
+
 <!-- Code Frequency and Contribution Stats -->
 <h3 align="left">Code Frequency and Contributions:</h3>
 <p align="left">

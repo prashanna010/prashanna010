@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prashanna Lohani</h1>
 <h3 align="center">A passionate student learning Computer Science in Nepal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrashannaLohani&label=Profile%20views&color=0e75b6&style=flat" alt="PrashannaLohani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanna010&label=Profile%20views&color=0e75b6&style=flat" alt="prashanna010" /> </p>
 
 - 🌱 I’m currently learning **Django, Django-REST framework**
 
-- 👨‍💻 All of my projects are available at [https://PrashannaLohani.github.io/Portfolio/](https://PrashannaLohani.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://prashanna010.github.io/Portfolio/](https://prashanna010.github.io/Portfolio/)
 
 - 💬 Ask me about **JavaScript, React, Python**
 
@@ -35,20 +35,20 @@
 </p>
 
 <!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashannaLohani&show_icons=true&locale=en&layout=compact&theme=dark" alt="PrashannaLohani" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanna010&show_icons=true&locale=en&layout=compact&theme=dark" alt="prashanna010" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrashannaLohani&show_icons=true&locale=en&theme=dark" alt="PrashannaLohani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashanna010&show_icons=true&locale=en&theme=dark" alt="prashanna010" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrashannaLohani&theme=dark" alt="PrashannaLohani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanna010&theme=dark" alt="prashanna010" /></p>
 
 <!-- Code Frequency and Contribution Stats -->
 <h3 align="left">Code Frequency and Contributions:</h3>
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashannaLohani&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanna010&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrashannaLohani&theme=github_dark" alt="GitHub Profile Summary Cards" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashanna010&theme=github_dark" alt="GitHub Profile Summary Cards" />
 </p>
 
 <h3 align="left">Connect with me:</h3>

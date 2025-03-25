@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, Django-REST framework**
 
-- 👨‍💻 All of my projects are available at [https://prashanna010.github.io/Portfolio/](https://prashanna010.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://prashannalohani.github.io/Portfolio/](https://prashannalohani.github.io/Portfolio/)
 
 - 💬 Ask me about **JavaScript, React, Python**
 
